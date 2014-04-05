@@ -1,6 +1,6 @@
 Timer App
 ===
-![Example Use](https://raw.github.com/kieda/Apps/timerapp/TimerApp/timerapp-snapshot.png)
+![Example Use](https://raw.github.com/kieda/DesktopApps/timerapp/TimerApp/timerapp-snapshot.png)
 
 Download : 
 
