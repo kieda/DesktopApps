@@ -2,7 +2,7 @@ Timer App
 ===
 Download : 
 
-At 'dist/TimerApp.jar'
+At 'TimerApp/dist/TimerApp.jar'
 
 
 Description : 
